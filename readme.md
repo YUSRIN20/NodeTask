@@ -20,13 +20,6 @@ This is a simple Express-based API that allows users to upload images from a pro
 
 ## Getting Started
 
-### Prerequisites
-
-Make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (v14 or higher)
-- [npm](https://www.npmjs.com/) (comes with Node.js)
-
 ### Installation
 
 1. Clone the repository:
